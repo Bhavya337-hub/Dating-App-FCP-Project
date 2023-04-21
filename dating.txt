@@ -1,0 +1,9 @@
+username,Password,gender,email,dob,religion,quaility,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,q21,q22,q23
+
+bhavyak,Bhavya@341,M,bhavya*@gmail.com,09/08/2003,hindu,leadership,1,2,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,2,2,1
+malayp,Malay@111,M,mavy@gmail.com,17/02/2003,hindu,patience,1,2,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1,4,1,1,3,2,1
+aliab,1478,F,alia@gmail.com,07/08/2000,hindu,frank,1,2,1,1,1,1,1,1,2,2,2,2,2,1,1,1,1,4,1,1,2,2,1
+deepikap,0000,F,depp@gmail.com,05/07/2003,hindu,sensetive,1,2,2,1,1,1,1,2,1,1,1,2,2,1,1,1,1,4,1,1,2,4,1
+bulands,1234,M,ass,04/07/2003,hindu,time punctual,1,2,3,1,1,1,2,2,4,3,1,3,3,1,4,2,2,1,1,2,3,3,1
+jinxp,1234,M,bhjbhjgb,07/08/2001,hindu,effeciency,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+
